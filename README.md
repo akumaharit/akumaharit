@@ -1,9 +1,5 @@
 # Welcome to my Profile!
-
-Harit J ; Thai pharmacy student and technology enthusiast
-
-# Contact Me
-
+## Contact Me
 Please contact me via: harit.forwork@gmail.com
 
 
